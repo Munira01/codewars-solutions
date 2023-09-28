@@ -96,3 +96,19 @@
   
 //    return newArr
 // };
+
+
+//Problem 8 - Odd or Even?
+// https://www.codewars.com/kata/5949481f86420f59480000e7/javascript
+
+// function oddOrEven(array) {
+//     let red = array.reduce((a, b) => {
+//         return a + b
+//     }, 0)
+    
+//     if (red % 2 === 0){
+//         return "even"
+//     }else{
+//         return "odd"
+//     }
+// }
