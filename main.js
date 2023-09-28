@@ -166,3 +166,13 @@
 //     let joined = arr.join("");
 //     return parseInt(joined, 2)
 // };
+
+
+//Problem 13 - Sort array by string length
+// https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/javascript
+
+// function sortByLength (array) {
+//     return array.sort((a, b) => {
+//         return a.length - b.length
+//     })
+// };
