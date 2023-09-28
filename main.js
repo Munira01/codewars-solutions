@@ -140,3 +140,20 @@
 //     }
 //     return newArr
 // }
+
+
+//Problem 11 - How many are smaller than me?
+// https://www.codewars.com/kata/56a1c074f87bc2201200002e/javascript
+
+// function smaller(nums) {
+//     let count = Array(nums.length).fill(0)
+//     for (let i = 0; i < nums.length - 1; i++){
+//         for (let j = i + 1; j < nums.length; j++){
+//             if ( nums[j] < nums[i]){
+//                     count[i]++
+//                 }
+//             }
+//         }
+      
+//     return count;
+// }
