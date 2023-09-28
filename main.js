@@ -176,3 +176,15 @@
 //         return a.length - b.length
 //     })
 // };
+
+
+//Problem 14 - Flatten and sort an array
+// https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/javascript
+
+// function flattenAndSort(array) {
+//     let flat = array.flat();
+//     let sorted  = flat.sort((a, b) => {
+//         return a - b
+//     })
+//     return sorted;
+// }
