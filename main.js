@@ -157,3 +157,12 @@
       
 //     return count;
 // }
+
+
+//Problem 12 - Ones and Zeros
+// https://www.codewars.com/kata/578553c3a1b8d5c40300037c/javascript
+
+// const binaryArrayToNumber = arr => {
+//     let joined = arr.join("");
+//     return parseInt(joined, 2)
+// };
