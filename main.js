@@ -124,3 +124,19 @@
 //     }
 //     return newArr
 // }
+
+
+//Problem 10 - Length and two values.
+// https://www.codewars.com/kata/62a611067274990047f431a8/javascript
+
+// function alternate(n, firstValue, secondValue){
+//     let newArr = []
+//     for (let i = 0; i < n; i++){
+//         if (i % 2 == 0){
+//             newArr.push(firstValue)
+//         }else{
+//             newArr.push(secondValue)
+//         }
+//     }
+//     return newArr
+// }
